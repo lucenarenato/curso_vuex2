@@ -1,7 +1,7 @@
 {
   "name": "vuex2",
   "description": "A Vue.js project",
-  "author": "Luiz <argentinaluiz@gmail.com>",
+  "author": "Renato <cpdrenato@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot",
